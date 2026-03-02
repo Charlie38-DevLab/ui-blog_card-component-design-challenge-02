@@ -53,7 +53,10 @@ body{
 .container2 p{
     padding: 0px;
     border-radius: 10px;
+}
 
+.container2 .texte{
+    font-weight: 200;
 }
 
 .texte-long{
