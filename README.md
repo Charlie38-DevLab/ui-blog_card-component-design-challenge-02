@@ -17,4 +17,10 @@ Renforcer mes compétences en intégration frontend, précision visuelle et repr
 ## 📸 Aperçu
 <img width="820" height="779" alt="Capture d&#39;écran 2026-03-02 215231" src="https://github.com/user-attachments/assets/17e6eb41-63ce-4650-9407-f77f7ee6fd04"/>
 
+## 👨‍💻 Auteur
+
+Projet réalisé par **Charlie Corentin AGBAYAHOUN LOKOSSOU**  
+Développeur Full-Stack Web & Mobile  
+Passionné par la création de solutions digitales modernes et performantes.
+
 ## Projet réalisé par Charlie38-DevLab dans le cadre de mes défis frontend pour construire mon portfolio développeur.
